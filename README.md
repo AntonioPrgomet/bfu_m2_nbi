@@ -1,7 +1,7 @@
 # Behörighetsförberedande kurs, Matematik 2 - NBI Handelsakademin
-I denna mapp så hittar du allt material kopplat till den behörighetsförberedande kursen för Matematik 2. 
+I denna mapp så hittar du material och information kopplat till den behörighetsförberedande kursen för Matematik 2. 
 
-**För att ladda ner allt material så trycker du på:**
+**För att ladda ner materialet så trycker du på:**
 **Code > Download ZIP. Eftersom det är en ZIP fil så skall du extrahera den efter nedladdning.**
 
 - Kursboken heter: "kursbok"
