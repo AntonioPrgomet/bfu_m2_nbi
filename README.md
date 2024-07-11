@@ -26,7 +26,6 @@ För att göra kunskapskontrollen går du in på sidan: https://auth.dugga.com/ 
 - När du har startat kunskapskontrollen så har du 120 minuter på dig att genomföra det.
 - Logga INTE ut när du väl har startat kunskapskontrollen.
 - Kunskapskontrollen kan endast genomföras EN gång. **Så viktigt att du inte öppnar testet innan du gjort klart kursen och är förberedd.** 
-- Testet är tillgängligt fram till **2024-06-12**.
 
 --------------
 
