@@ -22,7 +22,7 @@ Räkneregler såsom 2 - (-2) = 2 + 2 = 4 (d.v.s. att två minustecken blir ett p
 
 --------------
 Kunskapskontrollen görs hemma vid en dator oberoende av datum och tid. När du börjar kunskapskontrollen skall du ha din legitimation samt en QR kod läsare på din mobil tillhands. **OBS: Kunskapskontrollen får endast göras en gång så öppna inte den innan du gjort klart kursen och är förberedd.**
-För att göra kunskapskontrollen går du in på sidan: https://auth.dugga.com/ och loggar in med ditt namn och deltagarkoden: 5X0P-LLG5-JGY4
+För att göra kunskapskontrollen går du in på sidan: https://auth.dugga.com/ och loggar in med ditt namn och deltagarkoden: YJ7E-MBGY-SUPY
 - När du har startat kunskapskontrollen så har du 120 minuter på dig att genomföra det.
 - Logga INTE ut när du väl har startat kunskapskontrollen.
 - Kunskapskontrollen kan endast genomföras EN gång. **Så viktigt att du inte öppnar testet innan du gjort klart kursen och är förberedd.** 
