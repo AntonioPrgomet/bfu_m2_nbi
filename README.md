@@ -6,6 +6,7 @@ I denna mapp så hittar du material och information kopplat till den behörighet
 
 - Kursboken heter: "kursbok"
 - Inspelade videor kopplade till kursboken hittar du här: https://www.youtube.com/playlist?list=PLgzaMbMPEHExQAfFKcYjKijdn6tC9BLsP
+- Felskrivningar i boken hittas i dokumentet "felskrivningar"
 
 Ansvarig utbildningsledare är Jonna Gündert. <br>
 Mejl: jonna.guendert@nbi-handelsakademin.se <br>
